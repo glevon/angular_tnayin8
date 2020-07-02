@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tnayin8"
+    }
+  },
+  "defaultProject": "tnayin8",
+  "cli": {
+    "analytics": "6fab5fd1-9454-432b-af20-298dee89b668"
+  }
 }
